@@ -8,6 +8,4 @@ __pycache__/
 ~*.tmp
 ~*.docx
 
-# Local reference PDFs to keep out of GitHub
-"2122151002 Rezowan Internship Report.pdf"
-"Internship Report writing Guidline (Reveised) 2022.pdf"
+
