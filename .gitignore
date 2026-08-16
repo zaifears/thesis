@@ -3,9 +3,9 @@ __pycache__/
 *.pyc
 *.log
 *.tmp
-*.pdf
+
 ~$*
 ~*.tmp
-~*.docx
+
 
 
